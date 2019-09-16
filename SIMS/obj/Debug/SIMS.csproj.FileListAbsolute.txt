@@ -7,3 +7,6 @@ D:\C#\Final W-Proj\SIMS\SIMS\obj\Debug\SIMS.Properties.Resources.resources
 D:\C#\Final W-Proj\SIMS\SIMS\obj\Debug\SIMS.csproj.GenerateResource.Cache
 D:\C#\Final W-Proj\SIMS\SIMS\obj\Debug\SIMS.exe
 D:\C#\Final W-Proj\SIMS\SIMS\obj\Debug\SIMS.pdb
+D:\C#\School-Information-Management-System\SIMS\bin\Debug\SIMS.exe.config
+D:\C#\School-Information-Management-System\SIMS\obj\Debug\SIMS.exe
+D:\C#\School-Information-Management-System\SIMS\obj\Debug\SIMS.pdb
