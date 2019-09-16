@@ -1,0 +1,25 @@
+SCHOOL MANAGEMENT SYSTEM IN C#
+
+USERNAME : harry
+
+PASSWORD : harry0
+
+or simply register your own username and password 
+
+>> Change Database directory from F:\Sem.4\C# Projects\SchoolManagementSystem\SchoolManagementSystem\school.mdf
+   To your Own In All Modules!!
+
+WITHOUT CHANGING DATABASE DIRECTORY, THE SYSTEM WON'T RUN 
+
+>> Database File is inside : \SchoolManagementSystem\SchoolManagementSystem\school.mdf 
+
+>> DON'T DELETE ANY PHOTOS FROM "Resources" FOLDER.
+
+
+***** IF YOU FIND ANY ERRORS OR ANY PROBLEMS RELATED THIS PROGRAM, FEEL FREE TO CONTACT US *****  
+
+***** LEAVE A COMMENT IF YOU LOVED OUR WORK *****
+
+***** FOR MORE PROJECTS :- https://code-projects.org/ *****
+
+THANK YOU FOR DOWNLOADING :) 
