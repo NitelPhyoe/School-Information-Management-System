@@ -104,6 +104,7 @@
             this.pnlRight.Name = "pnlRight";
             this.pnlRight.Size = new System.Drawing.Size(619, 510);
             this.pnlRight.TabIndex = 1;
+            this.pnlRight.Paint += new System.Windows.Forms.PaintEventHandler(this.pnlRight_Paint);
             // 
             // btnClose
             // 
